@@ -1,5 +1,28 @@
 # p5.js Template
 
+
+For starters, I want to create 2 sets of circles given the circles' different sizes.
+I began trying to write the first for loop. 
+
+The first set of circles look good.
+Image on repo:  
+![commit 1](#1./file-name.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a README file that can be used to describe and document your assignment.
 
 Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
