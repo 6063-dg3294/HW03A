@@ -1,14 +1,20 @@
 # p5.js Template
 
-
+# 1st set of circles
 For starters, I want to create 2 sets of circles given the circles' different sizes.
 I began trying to write the first for loop. 
 
 The first set of circles look good.
 Image on repo:  
 ![commit 1](#1./file-name.jpg)
+I adjusted the maxDiam to make the circles move closer. 
 
+# 2nd set of circles
+Given the smaller circles seem to share the in-between distance with the larger ones, I decided to keep the parameters.
 
+Well, I would say there's a problem. I need to get the y correct. 
+Image on repo:  
+![commit 2](#2./file-name.jpg)
 
 
 
