@@ -21,11 +21,13 @@ function draw() {
   }
 
 // smaller circles
-  for (let xpos = 50; xpos <= width; xpos += maxDiam){
-    for (let ypos = 50; ypos <= height; ypos += maxDiam){
-      ellipse(xpos, ypos, 10, 10)
+  for (let xpos = 50; xpos <= width; xpos += maxDiam/2){
+    for (let ypos = 0; ypos <= height; ypos += maxDiam/2){
+      ellipse(xpos, ypos, 15, 15)
     }
   }
+
+
 
 
 
