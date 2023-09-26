@@ -6,7 +6,7 @@ I began trying to write the first for loop.
 
 The first set of circles look good.
 Image on repo:  
-![commit 1](./#1.png)
+![commit 1](./#1.jpg)
 I adjusted the maxDiam to make the circles move closer. 
 
 # 2nd set of circles
@@ -27,6 +27,7 @@ Image on repo:
 
 # Adjustments
 Given the difference now is the lack of larger dots in every two horizontal lines, I decide to cover up the smaller dots.
+
 
 
 
