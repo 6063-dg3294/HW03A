@@ -5,8 +5,9 @@ For starters, I want to create 2 sets of circles given the circles' different si
 I began trying to write the first for loop. 
 
 The first set of circles look good.
+
 Image on repo:  
-![commit 1](./#1.ong)
+![commit 1](./1.png)
 I adjusted the maxDiam to make the circles move closer. 
 
 # 2nd set of circles
