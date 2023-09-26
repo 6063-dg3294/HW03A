@@ -6,7 +6,7 @@ I began trying to write the first for loop.
 
 The first set of circles look good.
 Image on repo:  
-![commit 1](./#1.jpg)
+![commit 1](./#1.ong)
 I adjusted the maxDiam to make the circles move closer. 
 
 # 2nd set of circles
